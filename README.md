@@ -47,3 +47,7 @@ will render as:
 - Item 2
 - ...
 
+## Code blocks
+
+* To render text as `inline code`, surround it with single backticks **\`**.
+* To render text as a code block, use triple backticks **\`\`\`**
