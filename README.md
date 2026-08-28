@@ -31,3 +31,19 @@ of the line:
 Examples:
 ### This is a level 3 title...
 ##### This is a level 5 title...
+
+## Bulleted lists
+
+**Bulleted lists** are created by adding a **`- `** or **`* `** in front
+of a line. For instance:
+
+`- Item 1  (or * Item 1)`  
+`- Item 2  (or * Item 2)`  
+`- ...`
+
+will render as:
+
+- Item 1
+- Item 2
+- ...
+
